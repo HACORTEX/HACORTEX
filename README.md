@@ -1,4 +1,4 @@
-# Hi, I'm HACORTEX 👋
+# Hi, I'm HABIB 👋
 
 Math & CS graduate from Algeria 🇩🇿, now studying Probability & Statistics (Master's).
 I build web projects and AI automation tools, and I'm learning cybersecurity.
